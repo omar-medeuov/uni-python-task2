@@ -70,23 +70,6 @@ Analyze the correlation between trip distance and fare amount.
 
 Build a simple linear model:
 
-f
-a
-r
-e
-=
-a
-+
-b
-×
-d
-i
-s
-t
-a
-n
-c
-e
 fare=a+b×distance
 Interpret the result.
 
