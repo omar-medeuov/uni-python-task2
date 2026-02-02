@@ -1,0 +1,17 @@
+Difficulty,Topic,Task Description
+Easy,List,Create a list of integers from 1 to 5 and print it.
+Easy,Tuple,Create a tuple with three strings and print the second element.
+Easy,Set,"Create a set with values 1, 2, 2, 3 and print the result."
+Easy,Dictionary,Create a dictionary with keys 'a' and 'b' and values 1 and 2.
+Medium,List,"Given a list of numbers, remove all even numbers from it."
+Medium,Tuple,"Unpack a tuple (x, y, z) into three variables and print them."
+Medium,Set,"Find the intersection of two sets {1,2,3} and {2,3,4}."
+Medium,Dictionary,Iterate over a dictionary and print all keys and values.
+Hard,List,"Given a list of integers, create a new list with only unique values while preserving order."
+Hard,Tuple,"Convert a list of tuples [(1,2), (3,4)] into a single flat tuple."
+Hard,Set,"Given two lists, find elements that appear in both using sets."
+Hard,Dictionary,Invert a dictionary (swap keys and values). Assume values are unique.
+Very Hard,List,"Given a nested list of integers, flatten it using recursion."
+Very Hard,Tuple,Use tuples as keys to store coordinates in a dictionary and calculate Manhattan distance between two points.
+Very Hard,Set,"Given a list of lists, find all unique elements across all lists using sets."
+Very Hard,Dictionary,Merge two dictionaries with integer values by summing values of common keys.
