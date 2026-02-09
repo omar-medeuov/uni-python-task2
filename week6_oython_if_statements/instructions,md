@@ -1,0 +1,195 @@
+sy Level
+Positive or Negative
+
+Write a program that asks the user for a number and prints whether it is positive, negative, or zero.
+
+Even or Odd
+
+Input a number and check if it is even or odd.
+
+Pass or Fail
+
+Ask for a student’s score (0–100).
+
+If the score is 50 or more, print "Pass", otherwise "Fail".
+
+Weather Advice
+
+Input the temperature.
+
+If it is above 25 → print "Hot".
+
+If it is between 10 and 25 → print "Warm".
+
+Otherwise → print "Cold".
+
+Age Check
+
+Ask for age.
+
+If age is 18 or above, print "Adult", otherwise "Minor".
+
+🟡 Medium Level
+Grade System
+
+Input a score (0–100).
+
+Print the grade:
+
+A: 90–100
+
+B: 80–89
+
+C: 70–79
+
+D: 60–69
+
+F: below 60
+
+Maximum of Three Numbers
+
+Input three numbers.
+
+Print the largest one using if / elif / else.
+
+Simple Calculator
+
+Input two numbers and an operator (+, -, *, /).
+
+Perform the correct operation.
+
+Traffic Light
+
+Input a color (red, yellow, green).
+
+Print what the driver should do.
+
+Login System
+
+Predefine username and password.
+
+Ask the user to enter them.
+
+Check if login is successful.
+
+🔵 Hard Level
+Movie Ticket Price
+
+Input age and day of the week.
+
+Rules:
+
+Under 12 → $5
+
+12–60 → $10
+
+Over 60 → $7
+
+On weekends → +$2
+
+Bank Loan Approval
+
+Input:
+
+Salary
+
+Credit score
+
+Years of work
+
+Decide whether loan is approved based on conditions.
+
+BMI Calculator
+
+Input height and weight.
+
+Calculate BMI.
+
+Classify as:
+
+Underweight
+
+Normal
+
+Overweight
+
+Obese
+
+Electricity Bill
+
+Input consumed units.
+
+Calculate bill based on:
+
+First 100 → $0.5/unit
+
+Next 100 → $0.75/unit
+
+Above 200 → $1/unit
+
+Exam Eligibility
+
+Input attendance percentage and exam score.
+
+Determine if student can pass.
+
+🔴 Very Hard Level
+Smart ATM System
+
+Input PIN.
+
+If correct, show menu:
+
+Check balance
+
+Withdraw
+
+Deposit
+
+Exit
+
+Perform action using if / elif / else.
+
+E-Commerce Discount System
+
+Input:
+
+Total amount
+
+Membership type
+
+Coupon availability
+
+Calculate final price.
+
+Job Application Filter
+
+Input:
+
+Age
+
+Experience
+
+Degree
+
+Programming skills
+
+Decide eligibility.
+
+Hotel Room Booking
+
+Input:
+
+Room type
+
+Number of nights
+
+Season
+
+Calculate final cost.
+
+Game Level System
+
+Input player score, time, and lives.
+
+Assign level: Beginner, Intermediate, Pro, Master.
